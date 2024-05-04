@@ -1,2 +1,2 @@
 # Employee_JobStay_Prediction
-The analysis in this repo includes visualizations and key takeaways regarding factors influencing employee retention.
+The repository contains a Jupyter Notebook analyzing employee retention using data on satisfaction level, last evaluation, number of projects, average monthly hours, time spent at the company, work accidents, promotions in the last 5 years, salary, and whether the employee left. The analysis likely includes visualizations and key takeaways regarding factors influencing employee retention.
